@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientRadius/ClientRadius.iml" filepath="$PROJECT_DIR$/ClientRadius/ClientRadius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientTwo/ClientTwo.iml" filepath="$PROJECT_DIR$/ClientTwo/ClientTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerArea/ServerArea.iml" filepath="$PROJECT_DIR$/ServerArea/ServerArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ServerClient.iml" filepath="$PROJECT_DIR$/.idea/ServerClient.iml" />
+    </modules>
+  </component>
+</project>
